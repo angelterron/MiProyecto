@@ -1,0 +1,8 @@
+setup.py
+MiPaquete.egg-info/PKG-INFO
+MiPaquete.egg-info/SOURCES.txt
+MiPaquete.egg-info/dependency_links.txt
+MiPaquete.egg-info/not-zip-safe
+MiPaquete.egg-info/top_level.txt
+MiProyecto/Impresiones.py
+MiProyecto/Prueba.py
